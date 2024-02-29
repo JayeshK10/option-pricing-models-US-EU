@@ -21,6 +21,6 @@ pip install numpy pandas matplotlib scipy yfinance
 You can clone this repository and run the notebooks in Jupyter Lab or Jupyter Notebook. Ensure you have an internet connection to fetch data from Yahoo Finance.
 
 ```bash
-git clone 
+git clone https://github.com/JayeshK10/option-pricing-models-US-EU.git
 cd option-pricing-models-US+EU
 jupyter lab
